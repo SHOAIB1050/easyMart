@@ -21,4 +21,12 @@ const home = "Home";
 const categories = "Categories";
 const cart = "Cart";
 const accont = "Accont";
+const searchanything = "Search anything...";
+const todayDeal = "Today's Deal";
+const flashsale = "Flash Sale";
+const topSellers = "Top Sellers";
+const brand = "Brand";
+const topCategries = "Top Categories";
+const featuredCategries = "featured Categries";
+
 

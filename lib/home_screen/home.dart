@@ -1,7 +1,12 @@
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
+import 'package:online_shoping/category_screen/categoryScreen.dart';
 import 'package:online_shoping/consts/consts.dart';
 import 'package:online_shoping/controllers/home_controller.dart';
+import 'package:online_shoping/home_screen/home_screen.dart';
+
+import '../cart_screen/cart_screen.dart';
+import '../profile_screen/profile_screen.dart';
 class Home extends StatelessWidget {
   const Home({super.key});
 
@@ -15,10 +20,11 @@ class Home extends StatelessWidget {
       BottomNavigationBarItem(icon: Image.asset(icProfile, width: 26), label: accont),
     ];
     var navBody = [
-      Container(color: Colors.blue),
-      Container(color: Colors.amber),
-      Container(color: Colors.purple),
-      Container(color: Colors.cyan),
+      homeScreen(),
+      categoryScreen(),
+      cartScreen(),
+      profileScreen(),
+
     ];
     return Scaffold(
       body: Column(

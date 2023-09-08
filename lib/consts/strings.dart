@@ -1,0 +1,24 @@
+const appname = "EasyMart";
+const appversion = "Version 1.0.0";
+const credits = "@M.S Devs";
+const email = "Email";
+const emailHint = "admin@admin.com";
+const password = "Password";
+const retypepassword = "Retype Password";
+const name = "Name";
+const nameHint = "Shoaib Farooq";
+const passwordHint = "*******";
+const retypepasswordHint = "*******";
+const forgetPass = "Forget Password";
+const login ="Log in";
+const singup = "Sign Up";
+const createNetworkAccount = "or create a new Account";
+const loginWith = "Login in with";
+const privacyPolicy = "Privacy Policy";
+const termAndCond = "Terms and Consitions";
+const alreadyHaveAccount = "Already have an Account? ";
+const home = "Home";
+const categories = "Categories";
+const cart = "Cart";
+const accont = "Accont";
+

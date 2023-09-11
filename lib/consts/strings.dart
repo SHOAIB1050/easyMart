@@ -26,7 +26,7 @@ const todayDeal = "Today's Deal";
 const flashsale = "Flash Sale";
 const topSellers = "Top Sellers";
 const brand = "Brand";
-const topCategries = "Top Categories";
-const featuredCategries = "featured Categries";
+const topCategries = "Categories";
+const featuredCategries = "Featured Categries";
 
 

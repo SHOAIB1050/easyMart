@@ -27,6 +27,15 @@ const flashsale = "Flash Sale";
 const topSellers = "Top Sellers";
 const brand = "Brand";
 const topCategries = "Categories";
-const featuredCategries = "Featured Categries";
+const featuredCategries = "Featured Categories";
+const featuredProducts = "Featured Products";
+const womenDresses = "Women Dress";
+const girlsDresses = "Girls Dress";
+const girlsWatches = "Girls Watches";
+const mobilePhone = "Mobile Phone";
+const boysGlasses = "Boys Glasses";
+const tShirts = "T Shirts";
+
+
 
 

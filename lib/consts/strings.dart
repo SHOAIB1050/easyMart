@@ -36,6 +36,17 @@ const mobilePhone = "Mobile Phone";
 const boysGlasses = "Boys Glasses";
 const tShirts = "T Shirts";
 
+//Category Strings
+const womenCloting = "Women Clothing",
+    menClotingFashion = "Men Cloting & Fashion",
+    compAccess = "Computer & Accessories",
+    automobile = "Automobile",
+    kidtoyd = "Kids & Toys",
+    sports = "Sports",
+    jewelery = "Jewelery",
+    cellphone = "Cellphone & Tab",
+    furniture = "Furniture";
+
 
 
 
